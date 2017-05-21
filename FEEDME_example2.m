@@ -6,15 +6,15 @@ clear
 %%          not sure if e.g. "monomials" muPAD command works OK otherwise
 
 % Momdent calculation of R^2 for the following feedforward network.
-% 0 ? M ? 0
-% M ? M+P
-% P ? 0
-% 0 ? E ? 0
-% 0 ? F ? 0
-% E+P ? E+P+Q
-% Q ? 0
-% F+Q ? F+Q+R
-% R ? 0
+% 0 => M => 0
+% M => M+P
+% P => 0
+% 0 => E => 0
+% 0 => F => 0
+% E+P => E+P+Q
+% Q => 0
+% F+Q => F+Q+R
+% R => 0
 
 
 
