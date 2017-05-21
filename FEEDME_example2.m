@@ -78,7 +78,7 @@ while(1) % start loop
    ie_these_exponents = all_new_exponents
  end
     m=input('Do you want to continue, Y/N [Y]:','s');
-    if m=='N'|'n'
+    if m=='N'|m=='n'
     break
  end
  oldexponents=[oldexponents;all_new_exponents];
