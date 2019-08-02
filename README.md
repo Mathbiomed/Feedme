@@ -45,6 +45,6 @@ competitive_binding_mean_D(3,8,[4,1,7])
 is used when L=3, M=8, n_A=4, and n_C=7 (and n_B=1).
 
 Reference: 
-Jae Kyoung Kim & Eduardo Sontag, Reduction of Multiscale Stochastic Biochemical Reaction Networks using Exact Moment Derivation, PLoS Computational Biology (2017) (In Press)
+Jae Kyoung Kim & Eduardo Sontag, Reduction of Multiscale Stochastic Biochemical Reaction Networks using Exact Moment Derivation, PLoS Computational Biology (2017)
 
 
